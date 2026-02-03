@@ -130,4 +130,4 @@ Linked list + stack undo + BST sorting + binary persistence, built with modular 
 ---
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/anass-mokhtari-669518258/
-- Email: mokhtariano01@gmail.com
+- Email: mokhtarianass11@gmail.com
