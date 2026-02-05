@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anass-mokhtari-669518258/">LinkedIn</a> •
   <a href="mailto:mokhtariano01@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1S4hoxHpCbkpCbIg8uvmyUhqTzSjbZWac/view">CV</a>
+  <a href="https://drive.google.com/file/d/11S81i4YAsGPbVPqpxwTnLLGSFRXt5zjn/view?usp=sharing">CV</a>
 </p>
 
 ---
